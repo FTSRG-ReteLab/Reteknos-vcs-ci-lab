@@ -13,11 +13,5 @@ Bullet List:
 * cukor
 * liszt
 
-Példa numbered List-re:
-
-Numbered list:
-1. alma
-2. körte
-3. narancs
 
 Link a [google.com](http://google.com)-ra
