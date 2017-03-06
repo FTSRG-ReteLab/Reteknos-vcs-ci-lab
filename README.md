@@ -15,9 +15,9 @@ Bullet List:
 
 Példa numbered List-re:
 
-Numbered List:
+Numbered list:
 1. alma
 2. körte
 3. narancs
 
-Link a google.com-ra [link](http://google.com)
+Link a [google.com](http://google.com)-ra
