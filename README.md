@@ -9,15 +9,15 @@ Ezt a file-t hamarosan push-oljuk a GitHub repository-nkba.
 Példa Bullet listre: 
 
 Bullet List:
-	* só
-	* cukor
-	* liszt
+* só
+* cukor
+* liszt
 
 Példa numbered List-re:
 
 Numbered List:
-	1. alma
-	2. körte
-	3. narancs
+1. alma
+2. körte
+3. narancs
 
 Link a google.com-ra [link](http://google.com)
