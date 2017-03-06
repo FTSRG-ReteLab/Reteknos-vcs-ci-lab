@@ -9,9 +9,8 @@ Ezt a file-t hamarosan push-oljuk a GitHub repository-nkba.
 Példa Bullet listre: 
 
 Bullet List:
-* só
-* cukor
-* liszt
-
+* arany
+* juhtej
+* kukorica
 
 Link a [google.com](http://google.com)-ra
