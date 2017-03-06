@@ -9,8 +9,10 @@ Ezt a file-t hamarosan push-oljuk a GitHub repository-nkba.
 Példa Bullet listre: 
 
 Bullet List:
+
 * arany
-* juhtej
-* kukorica
+* gomba
+* pipa
+* arany
 
 Link a [google.com](http://google.com)-ra
